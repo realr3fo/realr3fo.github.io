@@ -16,7 +16,7 @@ A highly skilled Software Engineer with over three years of experience in backen
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/refo-ilmiya/)
-- [Email](refo.ilmiya@gmail.com)
+- refo.ilmiya at gmail.com
 
 ## 📊 GitHub Statistics
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=realr3fo&show_icons=true)
