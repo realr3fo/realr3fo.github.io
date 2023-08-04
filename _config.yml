@@ -1,3 +1,16 @@
-theme: jekyll-theme-slate
-title: Refo's homepage
-description: Welcome to my homepage!
+theme: jekyll-theme-minimal
+title: Refo Ilmiya - Software Engineer
+description: A highly skilled Software Engineer with over three years of experience in backend, frontend, full-stack development, and automation.
+
+# Social links
+github_username:  realr3fo
+linkedin_username: refo-ilmiya
+email: refo.ilmiya@gmail.com
+
+# Add here any plugins you might need. Below is an example.
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Build settings
+markdown: kramdown
