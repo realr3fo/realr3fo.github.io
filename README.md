@@ -1,6 +1,8 @@
 # Hi there, I'm Refo Ilmiya! 👋
 
-![Profile Picture](/images/profile.jpeg)
+<div align="center">
+  <img src="/images/profile.jpeg" alt="Profile Picture" width="200" style="border-radius: 50%;" />
+</div>
 
 ## 🚀 About Me
 A highly skilled Software Engineer with over three years of experience in backend, frontend, full-stack development, and automation. I leverage my in-depth knowledge and hands-on experience to solve complex, real-world problems through innovative software solutions. I'm committed to driving change and enhancing lives through the power of technology.
