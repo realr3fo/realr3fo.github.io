@@ -14,19 +14,24 @@ A highly skilled Software Engineer with over three years of experience in backen
 - Familiar with Data Science: Machine Learning, SQL, Pandas, Data analytics and visualization
 
 ## 👨‍💻 Experience
+- **Software Engineer** at Mipro Oy Espoo, Finland (December 2023 – present)
+  - Developed and maintained a next-generation backend for a TMS railway application, leveraging cutting-edge technologies like Quarkus, Kubernetes, Kafka, and Maven.
+  - Ensured high code quality and reliability by maintaining 80% unit test coverage and integrating automated testing pipelines using Jenkinsfile.
+  - Delivered key features and MVPs with a focus on continuous integration and deployment (CI/CD) in a Kubernetes environment.
+
 - **Software Engineer Intern Full stack** at Swappie, Helsinki, Finland (May 2022 – August 2022)
-  - Revolutionized user experience by developing responsive designs, integrating new payment services, and overhauling page flow, leading to a significant increase in post-payment subscriptions.
-  - Pioneered the construction of automatic refund webhooks, dramatically reducing manual labor and mitigating human errors.
-  - Partnered with the analytics team to engineer a fraudulent activity alert system, effectively detecting potential fraud cases.
+  - Developed responsive UI/UX, integrated new payment services, and optimized page flows, driving increased post-payment subscriptions.
+  - Implemented automated refund webhooks, reducing manual processes and minimizing errors.
+  - Collaborated with the analytics team to develop a fraud detection alert system for identifying suspicious transactions
   
 - **Software Engineer in Automation (QA)** at Ninja Van, Jakarta, Indonesia (September 2020 – April 2021)
-  - Led the development of automation tests in Java to improve the company's operator web service monitoring, ensuring smooth feature functionality.
-  - Collaborated with manual testers to create automation test scenarios, reducing manual work, and accelerating the sprint regression process.
-  - Enhanced the accuracy and coverage of automation tests, ensuring high-quality results and low error rates.
+  - Led automation test development in Java for monitoring web service features, improving test efficiency.
+  - Worked with manual testers to develop automated test scenarios, enhancing regression testing speed and accuracy.
+  - Increased test coverage and reliability, ensuring fewer defects and high-quality releases.
   
 - **Software Engineer Intern Backend** at Payfazz, Jakarta, Indonesia (June 2019 – August 2019)
-  - Transformed e-commerce product services for small supermarkets by developing RESTful APIs with Go and integrating partner services.
-  - Streamlined product service by reducing dependency injection and subdividing the service into multiple domains for loose coupling.
+  - Built RESTful APIs in Go for small-scale e-commerce services, integrating multiple partner systems.
+  - Streamlined backend services through domain-driven design, improving scalability and reducing dependency complexity.
 
 ## 🎓 Education
 - **Master’s Degree** in Data Science and Software Engineering Double degree at Åbo Akademi University, Turku, Finland (Grade 5.0/5.0, August 2021 – May 2023)
@@ -42,4 +47,4 @@ A highly skilled Software Engineer with over three years of experience in backen
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/refo-ilmiya/)
-- refo.ilmiya at gmail.com
+- refoakbar98 at gmail.com
